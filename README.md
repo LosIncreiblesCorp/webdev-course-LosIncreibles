@@ -104,7 +104,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 10 |  | [CodePen](ENLACE) | 
 
 
-- **Cuestionario**: [Pon a prueba tus conocimientos](ENLACE_CUESTIONARIO)
+- **Cuestionario**: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLScL25b51_QATqCyIgOgMFaNugzyezxAqKTAKi75fa2UVISwlQ/viewform?usp=header)
 - **Compartir**: #WebDevBeginners
 
 **¡Gracias por completar el curso!**
