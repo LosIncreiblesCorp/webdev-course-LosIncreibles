@@ -1,0 +1,26 @@
+/* Cambia el fondo y la fuente de toda la página */
+body {
+    background-color: __________________;
+    font-family: Arial, sans-serif;
+}
+
+/* Personaliza el color del encabezado */
+h1 {
+    color: __________________;
+}
+
+/* Modifica el tamaño de todos los párrafos */
+p {
+    font-size: ________;
+}
+
+/* Selecciona la clase destacado y aplica sus estilos */
+.____________ {
+    color: crimson;
+    font-weight: bold;
+}
+
+/* Selecciona el ID titulo y subraya el texto */
+#____________ {
+    text-decoration: ____________;
+}

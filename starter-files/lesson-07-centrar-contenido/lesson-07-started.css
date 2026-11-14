@@ -1,0 +1,26 @@
+/* Centra el contenedor y organiza su espacio interior */
+.contenedor {
+    max-width: 400px;
+    margin: __________________;
+    padding: 16px;
+    text-align: ____________;
+    background-color: #eef3f8;
+}
+
+/* Organiza las cajas horizontalmente usando Flexbox */
+.fila {
+    display: ____________;
+    justify-content: ____________;
+    gap: ________;
+}
+
+/* Define el tamaño y la distribución del contenido de cada caja */
+.caja {
+    width: 80px;
+    height: 80px;
+    background-color: #f89820;
+    display: ____________;
+    align-items: ____________;
+    justify-content: ____________;
+    font-weight: bold;
+}

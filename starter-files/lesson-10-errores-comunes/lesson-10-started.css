@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef3f8;
+    padding: 16px;
+}
+
+/* Completa los estilos para que el texto se vea rojo y más grande */
+.aviso {
+    color: __________;
+    font-size: ________;
+}
+
+/* Revisa el selector y agrega el fondo amarillo */
+.__________ {
+    background-color: __________;
+}

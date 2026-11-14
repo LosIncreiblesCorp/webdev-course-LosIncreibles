@@ -1,0 +1,53 @@
+/* Personaliza el estilo general de toda la página */
+body {
+    margin: 0;
+    font-family: __________________;
+    background-color: __________________;
+    color: __________________;
+}
+
+/* Dale color y centra el contenido del encabezado */
+header {
+    background-color: __________________;
+    color: white;
+    text-align: ____________;
+    padding: __________________;
+}
+
+/* Personaliza la imagen de perfil */
+header img {
+    border-radius: ____________;
+    border: __________________________;
+}
+
+/* Controla el ancho y la posición del contenido principal */
+main {
+    max-width: ________;
+    margin: __________________;
+    padding: 0 16px;
+}
+
+/* Convierte cada sección en una tarjeta */
+section {
+    background-color: __________________;
+    border-radius: ________;
+    padding: ________;
+    margin-bottom: ________;
+}
+
+/* Cambia el color de los subtítulos */
+h2 {
+    color: __________________;
+}
+
+/* Personaliza el color de los enlaces */
+a {
+    color: __________________;
+}
+
+/* Dale estilo al pie de página */
+footer {
+    text-align: ____________;
+    padding: ________;
+    color: __________________;
+}
