@@ -117,7 +117,9 @@ Período 202620<br>
 1ASI0730 Aplicaciones Web <br>
 NRC 8084<br>
 **Nombre del equipo**: LosIncreibles
-**Líder del equipo**: Noriega Collado, Jean Fabio
+
+**Líder del equipo**: Díaz Mendoza, Sebastián Víctor André
+
 **Integrantes del equipo**:
 - Asto Jacome, Jose Gustavo 
 - Díaz Mendoza, Sebastián Víctor André 
